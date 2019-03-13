@@ -1,2 +1,3 @@
-# ssekuboyina
-This is my academic repository
+# Sushmitha Sekuboyina's portfolio
+
+This is my academic portfolio. It uses AWS and ReactJS.
