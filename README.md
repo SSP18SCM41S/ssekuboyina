@@ -10,15 +10,17 @@ SSH
 Step 1: macOS brew in "Google"
 
 Step 2:
-brew install git
-brew install awscli
-brew cask install atom
-brew install python
-sudo easy_install pip
+1. brew install git
+2. brew install awscli
+3. brew cask install atom
+4. brew install python
+5. sudo easy_install pip
+6. pip install boto3
+- Used to write python scripts using AWS.
 
 Step 3:
 MacOS Sierra
-Installing ipython steps.
+- Installing ipython steps.
 1. pip install -U --user --force ipython
 2. python -m IPython
 3. alias ipython='python -m IPython'
