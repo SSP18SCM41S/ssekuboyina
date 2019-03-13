@@ -24,4 +24,4 @@ MacOS Sierra
 1. pip install -U --user --force ipython
 2. python -m IPython
 3. alias ipython='python -m IPython'
-#Add this is to ~/.bash_profile
+- Add this is to ~/.bash_profile
